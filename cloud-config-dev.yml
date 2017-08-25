@@ -1,3 +1,2 @@
-profile:dev-yml-1.0
 server:
   context-path: /config-test
